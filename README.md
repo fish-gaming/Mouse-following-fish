@@ -1,2 +1,4 @@
 # Mouse-following-fish
-cool webpage incoming
+This is a small interactive webpage where a 150x84 png of a fish smoothly and gracefully swims toward your mouse. 
+
+# Getting started
